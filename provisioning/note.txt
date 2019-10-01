@@ -1,0 +1,3 @@
+update db password in variables.tf
+terraform apply
+update.sh with env id 
